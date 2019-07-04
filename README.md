@@ -11,18 +11,6 @@ var days_deadline = 60;
 /* stop changing here */
 ```
 
-PS: Next time use [letsdeel.com](https://letsdeel.com ) to make sure you get paid.
 
-## Usage
-Just load the not-paid.js file in ```<head>```
-
-A Wordpress plugin is also available [here](https://github.com/SurfEdge/not-paid-wp).
-
-There's also an Android version available [here](https://github.com/theapache64/faded).
-
-## Author
-
-Inspired from twitter (@riklomas)
-Made by Ciprian (@kleampa), Romania
 
 PS: No PR's or issues will be accepted for this project. 
